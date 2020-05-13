@@ -22,15 +22,15 @@
 author:
     # Site's author name
     # Default: not set (author name is not displayed)
-    name: Your awesome name
+    name: Justin Dah-kenangnon
 
     # Site's author email
     # Default: not set (author email is not displayed)
-    email: your-email@yourdomain.com
+    email: dah.kenangnon@marronile.com
 
     # Site's author website, profile
     # Default: not set (author site is not displayed)
-    site: http://yourdomain.com
+    site: https://www.marronile.com/
 
 ############
 # Building #
@@ -221,13 +221,12 @@ plugins:
 #################
 
 # Site title
-title: Your awesome title
+title: Welcome to Justin Dah-kenangon's github page
 
 # Site description
 description: > # this means to ignore newlines until the text ends
-    Write an awesome description for your new site here. You can edit this
-    line in _config.yml. It will appear in your document head meta (for
-    Google search results) and in your feed.xml site description.
+   I'm web developper with  Node(Express), Php(Symfony) and Python(Django).
+   You're on my github page
 
 # Default site image
 # Image used as a default thumbnail for pages and posts which do not have an
