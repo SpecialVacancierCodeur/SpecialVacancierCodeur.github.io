@@ -320,7 +320,7 @@ facebook:
 # GitHub username
 # Example: jekyll, if your GitHub URL is https://github.com/jekyll
 # Default: not set (GitHub URL is not displayed)
-github_username: "jekyll"
+github_username: "Dahkenangnon"
 
 # Google Plus user ID
 # Example: 123456789098765432123, if your Google Plus URL is
@@ -342,7 +342,7 @@ github_username: "jekyll"
 # Twitter username
 # Example: jekyllrb, if your Twitter URL is https://twitter.com/jekyllrb
 # Default: not set (Twitter URL is not displayed)
-twitter_username: "jekyllrb"
+twitter_username: "dkenangnon"
 
 youtube:
     # What kind of YouTube profile you have (it can be "user" or "channel")
