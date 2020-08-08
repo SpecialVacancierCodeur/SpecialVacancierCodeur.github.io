@@ -1,1 +1,1 @@
-SvC githu page
+SvC github page
